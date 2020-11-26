@@ -1,4 +1,4 @@
-# Image-preprocessing
+# Image-preprocessing Under Process
 changing the dimension of images from and copying results to fixed directory
 
 Pre requisite for implementing this file:
